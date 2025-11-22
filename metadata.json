@@ -1,0 +1,5 @@
+{
+  "name": "ProFocus Lab Tracker",
+  "description": "A high-performance habit tracking dashboard replicating the ProFocus Lab methodology. Features interactive daily tracking, progress visualization, and mental state logging.",
+  "requestFramePermissions": []
+}
